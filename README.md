@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Welcome to Scientific!!
 
-You can use the [editor on GitHub](https://github.com/willicali40/100tifico/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a single page aplication where you can find information about the characters 
+of one of my favorites series The Rick and Morty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I used The Rick and Morty Api, javascript, webpack and npm.
 
-### Markdown
+If you'd like to see this project live, once it opens in the browser, please click in the folder dist,
+it will show you the project right away.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/willicali40/100tifico/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This is not focus on responsive designe, if you'd like to see come responsive, please check my other projects ;).
